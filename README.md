@@ -47,7 +47,8 @@ This was the first major project that got me into coding.
 - Features were developed **from late 2016 through summer 2019**.  
 - The speed modifications were last tested in summer 2019.  
 - Images and videos showcase the client’s evolution and capabilities.
+- Around 2020, I moved on from making a personal game cheating client to picking up Python and automating other things.
 
 ---
 
-*⚠️ Note: All content in this repository is for educational and archival purposes only.*
+*⚠️ Note: All content in this repository is for educational and archival purposes only. The Cheats Don't really bypass anymore, either, as they haven't been kept up to date.*
