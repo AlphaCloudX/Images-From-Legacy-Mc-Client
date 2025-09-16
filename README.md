@@ -2,7 +2,7 @@
 
 This repository contains a selection of media showcasing a **custom Minecraft cheating client** developed between late 2016 and 2019. The client includes visual enhancements, in-game modifications, and automated features.
 
-Unfortunately, several iterations have been lost to time, but these mostly expanded on modernizing the main menu with repositioning menu buttons, using OpenGL to draw custom shapes and RGB-themed chat colour through a command. These were worked on around 2021.
+Several iterations have been lost over time, but these mostly expanded on modernizing the main menu with repositioned buttons, OpenGL custom shapes, and RGB-themed chat colors. These updates were worked on around 2021.
 
 This was the first major project that got me into coding.
 
@@ -31,34 +31,33 @@ This was the first major project that got me into coding.
 
 ## Automated Features
 
-## Aimbot Demonstration
+### Aimbot Demonstration
 
-<video width="480" controls>
-  <source src="8mb.video-gR5-MB9x0C27.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Aimbot Demo](https://img.youtube.com/vi/nKDFL9ZFfmo/0.jpg)](https://youtu.be/nKDFL9ZFfmo)  
+**Description:** Demonstrates the aimbot automatically targeting a player in-game.  
 
-**File:** `8mb.video-gR5-MB9x0C27.mp4`  
-**Description:** Demonstrates the aimbot automatically targeting a player in-game.
+### Speed Mod Demonstration
 
-## Speed Mod Demonstration
+[![Speed Mod Demo](https://img.youtube.com/vi/L-1oZNYQuxU/0.jpg)](https://youtu.be/L-1oZNYQuxU)  
+**Description:** Demonstrates custom speed cheats. *(Note: This video may no longer work properly.)*
 
-<video width="480" controls>
-  <source src="8mb.video-WHF-kbAGayKv.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+---
 
-**File:** `8mb.video-WHF-kbAGayKv.mp4`  
-**Description:** Demonstrates custom speed cheats.
+## Transition to Python & Deep Learning
+
+### Object Detection & Aim Assist (2022)
+
+[![Python Deep Learning Demo](https://img.youtube.com/vi/seb8aCPnXJ4/0.jpg)](https://youtu.be/seb8aCPnXJ4)  
+**Description:** Showcases a fully external cheat using deep learning for aim assistance. The original Minecraft client I created is visible in the bottom right corner, running on a duplicate account. This marks my transition into Python and computer vision-based automation.
 
 ---
 
 ## Historical Context
 - Features were developed **from late 2016 through summer 2019**.  
 - The speed modifications were last tested in summer 2019.  
-- Images and videos showcase the client’s evolution and capabilities.
-- Around 2020, I moved on from making a personal game cheating client to picking up Python and automating other things.
+- Images and videos showcase the client’s evolution and capabilities.  
+- Around 2020, I shifted focus from Minecraft cheats to Python automation projects.
 
 ---
 
-*⚠️ Note: All content in this repository is for educational and archival purposes only. The Cheats Don't really bypass anymore, either, as they haven't been kept up to date.*
+*⚠️ Note: All content in this repository is for educational and archival purposes only. The cheats no longer bypass current Minecraft protections and are not maintained.*
