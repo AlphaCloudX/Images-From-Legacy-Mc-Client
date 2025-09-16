@@ -48,7 +48,7 @@ This was the first major project that got me into coding.
 ### Object Detection & Aim Assist (2022)
 
 [![Python Deep Learning Demo](https://img.youtube.com/vi/seb8aCPnXJ4/0.jpg)](https://youtu.be/seb8aCPnXJ4)  
-**Description:** Showcases a fully external cheat using deep learning for aim assistance. The original Minecraft client I created is visible in the bottom right corner, running on a duplicate account. This marks my transition into Python and computer vision-based automation at the start of 2020.
+**Description:** Showcases a fully external cheat using deep learning for aim assistance. The original Minecraft client I created is visible in the bottom right corner, running on a duplicate account. This marks my transition into Python and computer vision-based automation at the start of 2022. Yes, before ChatGPT and all the hype around it came out!
 
 ---
 
