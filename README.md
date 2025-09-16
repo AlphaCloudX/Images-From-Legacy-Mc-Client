@@ -31,15 +31,25 @@ This was the first major project that got me into coding.
 
 ## Automated Features
 
-### Aimbot Demonstration
-[![Aimbot Video](https://img.youtube.com/vi/gR5-MB9x0C27/0.jpg)](8mb.video-gR5-MB9x0C27.mp4)  
-**File:** `8mb.video-gR5-MB9x0C27.mp4`  
-**Description:** Demonstrates the aimbot automatically targeting a player in-game. Click the thumbnail to play the video.
+## Aimbot Demonstration
 
-### Speed Mod Demonstration
-[![Speed Mod Video](https://img.youtube.com/vi/kbAGayKv/0.jpg)](8mb.video-WHF-kbAGayKv.mp4)  
+<video width="480" controls>
+  <source src="8mb.video-gR5-MB9x0C27.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+**File:** `8mb.video-gR5-MB9x0C27.mp4`  
+**Description:** Demonstrates the aimbot automatically targeting a player in-game.
+
+## Speed Mod Demonstration
+
+<video width="480" controls>
+  <source src="8mb.video-WHF-kbAGayKv.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 **File:** `8mb.video-WHF-kbAGayKv.mp4`  
-**Description:** Demonstrates custom speed cheats. Note: these no longer bypass server restrictions and historically caused temporary bans.
+**Description:** Demonstrates custom speed cheats.
 
 ---
 
