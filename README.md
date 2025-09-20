@@ -12,6 +12,9 @@ This was the first major project that got me into coding.
 
 ### Speed Cheat Bypass
 
+[![Speed Cheat Demo](speed-demo.gif)](https://youtu.be/KvE3-abRuiA)
+
+
 [![Speed Cheat Bypass](https://img.youtube.com/vi/KvE3-abRuiA/0.jpg)](https://youtu.be/KvE3-abRuiA)  
 **Description:** Demonstrates my custom speed cheat bypassing the anti-cheat completely without any flagging.
 
