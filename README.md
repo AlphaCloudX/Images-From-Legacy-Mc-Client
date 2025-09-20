@@ -8,25 +8,22 @@ This was the first major project that got me into coding.
 
 ---
 
-## Automated Features
+## Automated Features Videos
 
 ### Speed Cheat Bypass
 
-[![Speed Cheat Demo](speed-demo.gif)](https://youtu.be/KvE3-abRuiA)
-
-
 [![Speed Cheat Bypass](https://img.youtube.com/vi/KvE3-abRuiA/0.jpg)](https://youtu.be/KvE3-abRuiA)  
-**Description:** Demonstrates my custom speed cheat bypassing the anti-cheat completely without any flagging.
+**Description:** This video demonstrates my custom speed cheat, bypassing the anti-cheat completely without any flagging.
 
 ### Combat Cheats & Client UI
 
 [![Combat Cheats Demo](https://img.youtube.com/vi/U9NFDoRBDAg/0.jpg)](https://youtu.be/U9NFDoRBDAg)  
-**Description:** Shows the combat cheats in action and the client UI used to enable/disable combat-related features.
+**Description:** This video shows the combat cheats in action and the client UI used to enable/disable combat-related features.
 
 ### Step Cheat
 
 [![Step Cheat Demo](https://img.youtube.com/vi/UDDQqOB8t0w/0.jpg)](https://youtu.be/UDDQqOB8t0w)  
-**Description:** Demonstrates the step cheat, allowing movement up more blocks than normally permitted.
+**Description:** This video  demonstrates the step cheat, allowing movement up more blocks than normally permitted.
 
 ---
 
