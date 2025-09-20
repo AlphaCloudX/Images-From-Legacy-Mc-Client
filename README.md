@@ -8,6 +8,25 @@ This was the first major project that got me into coding.
 
 ---
 
+## Automated Features
+
+### Speed Cheat Bypass
+
+[![Speed Cheat Bypass](https://img.youtube.com/vi/KvE3-abRuiA/0.jpg)](https://youtu.be/KvE3-abRuiA)  
+**Description:** Demonstrates my custom speed cheat bypassing the anti-cheat completely without any flagging.
+
+### Combat Cheats & Client UI
+
+[![Combat Cheats Demo](https://img.youtube.com/vi/U9NFDoRBDAg/0.jpg)](https://youtu.be/U9NFDoRBDAg)  
+**Description:** Shows the combat cheats in action and the client UI used to enable/disable combat-related features.
+
+### Step Cheat
+
+[![Step Cheat Demo](https://img.youtube.com/vi/UDDQqOB8t0w/0.jpg)](https://youtu.be/UDDQqOB8t0w)  
+**Description:** Demonstrates the step cheat, allowing movement up more blocks than normally permitted.
+
+---
+
 ## Main Menu
 
 ![Main Menu](20190610_120214.jpg)  
@@ -26,20 +45,6 @@ This was the first major project that got me into coding.
 - **Full Bright:** Forces full brightness in dark areas.  
 - **Chest ESP:** Highlights chests.  
 - **Click GUI:** In-game interface for toggling features.
-
----
-
-## Automated Features
-
-### Aimbot Demonstration
-
-[![Aimbot Demo](https://img.youtube.com/vi/nKDFL9ZFfmo/0.jpg)](https://youtu.be/nKDFL9ZFfmo)  
-**Description:** Demonstrates the aimbot automatically targeting a player in-game.  
-
-### Speed Mod Demonstration
-
-[![Speed Mod Demo](https://img.youtube.com/vi/L-1oZNYQuxU/0.jpg)](https://youtu.be/L-1oZNYQuxU)  
-**Description:** Demonstrates custom speed cheats, but they have been patched.
 
 ---
 
